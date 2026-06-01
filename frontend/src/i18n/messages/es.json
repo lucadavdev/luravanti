@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "approach": "Enfoque",
+    "services": "Servicios",
+    "why": "Por qué LuRavAntI",
+    "process": "Proceso",
+    "book": "Reserva una sesión estratégica"
+  },
+  "hero": {
+    "eyebrow": "Consultoría de transformación empresarial",
+    "title": "Transformamos empresas para la era de la IA",
+    "lead": "Integramos sistemas, eliminamos la fricción operativa, reestructuramos los datos y construimos la base para la automatización inteligente.",
+    "cta1": "Reserva una sesión estratégica",
+    "cta2": "Explora los servicios",
+    "t1": "IA y automatización",
+    "t2": "Integración y conectividad",
+    "t3": "Transformación empresarial",
+    "gradWord": "era de la IA"
+  },
+  "intro": {
+    "eyebrow": "Transformar la complejidad en simplicidad",
+    "title": "Eliminamos la fricción de tu negocio",
+    "p1": "Las empresas de hoy dependen de docenas de sistemas, plataformas, hojas de cálculo y procesos manuales desconectados. Aunque cada herramienta resuelva un problema específico, juntas suelen generar ineficiencias, trabajo duplicado, datos fragmentados y fricción operativa.",
+    "p2": "En LuRavAntI ayudamos a las organizaciones a simplificar y modernizar sus operaciones diseñando sistemas inteligentes que conectan, unifican y automatizan su forma de trabajar.",
+    "p3": "Nuestra misión es simple: eliminar la fricción, derribar los silos y crear flujos operativos sin interrupciones que permitan a las empresas avanzar más rápido y crecer con confianza."
+  },
+  "disruption": {
+    "eyebrow": "Transformación sin interrupciones",
+    "title": "La transformación digital no debe significar reconstruirlo todo desde cero",
+    "p1": "Muchas empresas han invertido años en sus sistemas y procesos operativos existentes. Respetamos esa inversión.",
+    "p2": "Nuestro enfoque se centra en comprender lo que ya funciona, preservar la continuidad del negocio y crear una estrategia de transformación que minimiza las interrupciones y maximiza el valor.",
+    "p3": "Nos integramos con tu ecosistema existente, permitiendo que los equipos sigan operando mientras mejoramos progresivamente la arquitectura subyacente. El resultado es una transición más fluida, una adopción más rápida y resultados medibles sin interrumpir las operaciones diarias.",
+    "card1_k": "Preserva",
+    "card1_t": "Continuidad del negocio",
+    "card1_d": "Los equipos siguen operando mientras la arquitectura evoluciona por debajo.",
+    "card2_k": "Integra",
+    "card2_t": "Ecosistema existente",
+    "card2_d": "Nos conectamos a lo que ya usas en lugar de reemplazarlo.",
+    "card3_k": "Mejora",
+    "card3_t": "Progresivamente",
+    "card3_d": "La arquitectura mejora paso a paso, con resultados medibles."
+  },
+  "unify": {
+    "eyebrow": "Unifica sistemas · Elimina silos",
+    "title": "Tu empresa debería operar como una sola organización conectada",
+    "p1": "Uno de los mayores desafíos de las organizaciones es la información fragmentada repartida en múltiples plataformas.",
+    "p2": "Ayudamos a las empresas a crear un ecosistema digital unificado donde la información fluye de forma natural entre departamentos, sistemas y equipos. Ya sea mediante integraciones, plataformas a medida, capas de automatización o centros operativos centralizados, garantizamos que tu empresa opere como una organización conectada y no como un conjunto de herramientas aisladas.",
+    "before": "Antes — fragmentado",
+    "after": "Después — conectado",
+    "silo1": "Ventas en un sistema",
+    "silo2": "Operaciones en otro",
+    "silo3": "Atención al cliente en un tercero",
+    "silo4": "La dirección depende de hojas de cálculo",
+    "unified": "Un ecosistema digital unificado"
+  },
+  "vendorlock": {
+    "eyebrow": "Soluciones a medida, sin dependencia de proveedores",
+    "title": "La tecnología debe servir a tu negocio — no al revés",
+    "lead": "A diferencia de muchas consultoras que construyen soluciones en torno a costosas plataformas de terceros, priorizamos la propiedad, la flexibilidad y la sostenibilidad a largo plazo. Siempre que es posible, reducimos la dependencia de software de terceros y te damos mayor control sobre tus operaciones, costes y crecimiento futuro.",
+    "1k": "Conecta",
+    "1d": "los sistemas existentes cuando ya aportan valor.",
+    "2k": "Reemplaza",
+    "2d": "las herramientas innecesarias cuando generan complejidad.",
+    "3k": "Construye",
+    "3d": "soluciones a medida donde aportan ventaja estratégica.",
+    "4k": "Mantén",
+    "4d": "el control de tus datos y procesos."
+  },
+  "aifoundation": {
+    "eyebrow": "Construyendo la base para la IA",
+    "title": "La IA no es una herramienta que simplemente se añade a una empresa",
+    "p1": "La inteligencia artificial requiere datos estructurados, sistemas conectados, procesos eficientes y flujos de información fiables.",
+    "p2": "La mayoría de las organizaciones no están limitadas por la tecnología de IA en sí, sino por datos fragmentados, plataformas desconectadas y procesos de negocio inconsistentes.",
+    "p3": "Por eso cada proyecto de transformación comienza con una revisión fundamental de las estructuras de datos, los flujos de trabajo y la arquitectura operativa. Rediseñamos y optimizamos estas bases para que tu organización esté lista para aprovechar al máximo la automatización, el aprendizaje automático, los asistentes inteligentes, la analítica predictiva y las futuras capacidades de IA.",
+    "quote": "Nuestro objetivo no es solo preparar tu empresa para la tecnología de hoy. Es construir una base operativa que te mantenga por delante de la de mañana.",
+    "s1": "Datos estructurados",
+    "s2": "Sistemas conectados",
+    "s3": "Procesos eficientes",
+    "s4": "Flujos fiables"
+  },
+  "services": {
+    "eyebrow": "Nuestros servicios",
+    "title": "De la estrategia a las operaciones inteligentes",
+    "lead": "Cada proyecto se construye en torno a tus objetivos de negocio — conectando lo que funciona, simplificando lo que no y preparando la base para la IA.",
+    "s1t": "Consultoría de transformación empresarial",
+    "s1b": "Analizamos tus operaciones actuales, identificamos ineficiencias y definimos estrategias de transformación prácticas alineadas con tus objetivos de negocio.",
+    "s2t": "Integración de sistemas y unificación de procesos",
+    "s2b": "Conectamos software, plataformas, bases de datos y flujos operativos existentes para eliminar silos y crear un flujo de información sin interrupciones.",
+    "s3t": "Desarrollo de software a medida",
+    "s3b": "Diseñamos y construimos aplicaciones, portales, plataformas y sistemas operativos a medida según tus necesidades de negocio.",
+    "s4t": "Preparación para la IA y arquitectura de datos",
+    "s4b": "Reestructuramos modelos de datos, procesos operativos y flujos de información para preparar a las organizaciones para operaciones y decisiones impulsadas por IA.",
+    "s5t": "Automatización y operaciones inteligentes",
+    "s5b": "Implementamos automatización, flujos de trabajo inteligentes y asistentes con IA que reducen el trabajo manual y mejoran la productividad en toda la organización.",
+    "s6t": "Base de datos unificada",
+    "s6b": "Creamos una fuente única de verdad — consolidando tus datos en una base estructurada y fiable que impulsa los informes y la IA."
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "Un camino claro de la complejidad al flujo",
+    "s1t": "Descubrir",
+    "s1d": "Mapeamos tus sistemas, datos y flujos para entender qué funciona ya y dónde está la fricción.",
+    "s2t": "Diseñar",
+    "s2d": "Definimos una estrategia de transformación y una arquitectura que minimizan las interrupciones y maximizan el valor.",
+    "s3t": "Integrar",
+    "s3d": "Conectamos, unificamos y mejoramos progresivamente tu ecosistema mientras los equipos siguen operando.",
+    "s4t": "Automatizar",
+    "s4d": "Añadimos automatización e IA sobre una base sólida, con resultados medibles sobre los que crecer."
+  },
+  "cta": {
+    "eyebrow": "Construye una empresa lista para el futuro",
+    "title": "La transformación no consiste en añadir más herramientas. Consiste en hacer que todo funcione en conjunto.",
+    "lead": "Al eliminar la fricción, conectar operaciones, reestructurar la información y preparar para la IA, ayudamos a las empresas a operar de forma más inteligente, rápida y con mayor confianza en el futuro.",
+    "btn1": "Reserva una sesión estratégica",
+    "btn2": "Explora los servicios"
+  },
+  "footer": {
+    "tagline": "Lo conectamos, lo simplificamos y lo preparamos para el futuro.",
+    "company": "Empresa",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "approach": "Enfoque",
+    "why": "Por qué LuRavAntI",
+    "process": "Proceso",
+    "rights": "Todos los derechos reservados."
+  }
+}

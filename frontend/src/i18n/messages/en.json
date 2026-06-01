@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "approach": "Approach",
+    "services": "Services",
+    "why": "Why LuRavAntI",
+    "process": "Process",
+    "book": "Book a strategy session"
+  },
+  "hero": {
+    "eyebrow": "Business Transformation Consulting",
+    "title": "We transform businesses for the AI era",
+    "lead": "We integrate systems, eliminate operational friction, restructure data, and build the foundation for intelligent automation.",
+    "cta1": "Book a strategy session",
+    "cta2": "Explore services",
+    "t1": "AI & Automation",
+    "t2": "Integration & Connectivity",
+    "t3": "Business Transformation",
+    "gradWord": "AI era"
+  },
+  "intro": {
+    "eyebrow": "Transforming complexity into simplicity",
+    "title": "We remove friction from your business",
+    "p1": "Businesses today rely on dozens of disconnected systems, platforms, spreadsheets, and manual processes. While each tool may solve a specific problem, together they often create inefficiencies, duplicate work, fragmented data, and operational friction.",
+    "p2": "At LuRavAntI, we help organizations simplify and modernize their operations by designing intelligent systems that connect, unify, and automate the way they work.",
+    "p3": "Our mission is simple: remove friction, eliminate silos, and create seamless operational flows that enable businesses to move faster and grow with confidence."
+  },
+  "disruption": {
+    "eyebrow": "Transformation without disruption",
+    "title": "Digital transformation should not mean rebuilding everything from scratch",
+    "p1": "Many businesses have invested years into their existing systems and operational processes. We respect that investment.",
+    "p2": "Our approach focuses on understanding what already works, preserving business continuity, and creating a transformation strategy that minimizes disruption while maximizing value.",
+    "p3": "We integrate with your existing ecosystem, allowing teams to continue operating while we progressively improve the underlying architecture. The result is a smoother transition, faster adoption, and measurable business outcomes without interrupting day-to-day operations.",
+    "card1_k": "Preserve",
+    "card1_t": "Business continuity",
+    "card1_d": "Teams keep operating while the architecture evolves underneath them.",
+    "card2_k": "Integrate",
+    "card2_t": "Existing ecosystem",
+    "card2_d": "We connect to what you already run instead of replacing it.",
+    "card3_k": "Improve",
+    "card3_t": "Progressively",
+    "card3_d": "Architecture improves step by step, with measurable outcomes."
+  },
+  "unify": {
+    "eyebrow": "Unify systems · Remove silos",
+    "title": "Your business should operate as one connected organization",
+    "p1": "One of the biggest challenges organizations face is fragmented information spread across multiple platforms.",
+    "p2": "We help businesses create a unified digital ecosystem where information flows naturally between departments, systems, and teams. Whether through integrations, custom platforms, automation layers, or centralized operational hubs, we ensure your business operates as a connected organization rather than a collection of isolated tools.",
+    "before": "Before — fragmented",
+    "after": "After — connected",
+    "silo1": "Sales works in one system",
+    "silo2": "Operations in another",
+    "silo3": "Customer service in a third",
+    "silo4": "Management relies on spreadsheets",
+    "unified": "One unified digital ecosystem"
+  },
+  "vendorlock": {
+    "eyebrow": "Custom solutions, not vendor lock-in",
+    "title": "Technology should serve your business — not the other way around",
+    "lead": "Unlike many consulting firms that build solutions around expensive third-party platforms, we prioritize ownership, flexibility, and long-term sustainability. Whenever possible, we reduce dependency on third-party software and give you greater control over your operations, costs, and future growth.",
+    "1k": "Connect",
+    "1d": "existing systems when they already provide value.",
+    "2k": "Replace",
+    "2d": "unnecessary tools when they create complexity.",
+    "3k": "Build",
+    "3d": "custom solutions where they deliver strategic advantage.",
+    "4k": "Maintain",
+    "4d": "control of your data and processes."
+  },
+  "aifoundation": {
+    "eyebrow": "Building the foundation for AI",
+    "title": "AI is not a tool you simply add to a business",
+    "p1": "Artificial intelligence requires structured data, connected systems, efficient processes, and reliable information flows.",
+    "p2": "Most organizations are not limited by the AI technology itself — they are limited by fragmented data, disconnected platforms, and inconsistent business processes.",
+    "p3": "That is why every transformation project begins with a fundamental review of data structures, workflows, and operational architecture. We redesign and optimize these foundations so your organization is ready to fully leverage automation, machine learning, intelligent assistants, predictive analytics, and future AI capabilities.",
+    "quote": "Our goal is not simply to prepare your business for today's technology. It is to build an operational foundation that keeps you ahead of tomorrow's.",
+    "s1": "Structured data",
+    "s2": "Connected systems",
+    "s3": "Efficient processes",
+    "s4": "Reliable flows"
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "title": "From strategy to intelligent operations",
+    "lead": "Every engagement is built around your business objectives — connecting what works, simplifying what doesn't, and preparing the foundation for AI.",
+    "s1t": "Business Transformation Consulting",
+    "s1b": "We analyze your current operations, identify inefficiencies, and define practical transformation strategies aligned with your business objectives.",
+    "s2t": "System Integration & Process Unification",
+    "s2b": "We connect existing software, platforms, databases, and operational workflows to eliminate silos and create a seamless flow of information.",
+    "s3t": "Custom Software Development",
+    "s3b": "We design and build tailored applications, portals, platforms, and operational systems around your unique business requirements.",
+    "s4t": "AI Readiness & Data Architecture",
+    "s4b": "We restructure data models, operational processes, and information flows to prepare organizations for AI-driven operations and decision-making.",
+    "s5t": "Automation & Intelligent Operations",
+    "s5b": "We implement automation, intelligent workflows, and AI-powered assistants that reduce manual effort and improve productivity across the organization.",
+    "s6t": "Data Foundation",
+    "s6b": "We create a single source of truth — consolidating your data into a structured, reliable foundation that powers reporting and AI."
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "A clear path from complexity to flow",
+    "s1t": "Discover",
+    "s1d": "We map your systems, data, and workflows to understand what already works and where friction lives.",
+    "s2t": "Design",
+    "s2d": "We define a transformation strategy and architecture that minimizes disruption while maximizing value.",
+    "s3t": "Integrate",
+    "s3d": "We connect, unify, and progressively improve your ecosystem while teams keep operating.",
+    "s4t": "Automate",
+    "s4d": "We layer in automation and AI on a clean foundation, with measurable outcomes you can build on."
+  },
+  "cta": {
+    "eyebrow": "Build a business ready for the future",
+    "title": "Transformation is not about adding more tools. It's about making everything work together.",
+    "lead": "By removing friction, connecting operations, restructuring information, and preparing for AI, we help businesses operate smarter, faster, and with greater confidence in the future.",
+    "btn1": "Book a strategy session",
+    "btn2": "Explore services"
+  },
+  "footer": {
+    "tagline": "We connect it, simplify it, and prepare it for the future.",
+    "company": "Company",
+    "services": "Services",
+    "contact": "Contact",
+    "approach": "Approach",
+    "why": "Why LuRavAntI",
+    "process": "Process",
+    "rights": "All rights reserved."
+  }
+}

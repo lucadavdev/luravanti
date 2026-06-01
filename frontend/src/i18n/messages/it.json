@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "approach": "Approccio",
+    "services": "Servizi",
+    "why": "Perché LuRavAntI",
+    "process": "Processo",
+    "book": "Prenota una sessione strategica"
+  },
+  "hero": {
+    "eyebrow": "Consulenza per la trasformazione aziendale",
+    "title": "Trasformiamo le aziende per l'era dell'AI",
+    "lead": "Integriamo i sistemi, eliminiamo gli attriti operativi, ristrutturiamo i dati e costruiamo le fondamenta per l'automazione intelligente.",
+    "cta1": "Prenota una sessione strategica",
+    "cta2": "Esplora i servizi",
+    "t1": "AI e automazione",
+    "t2": "Integrazione e connettività",
+    "t3": "Trasformazione aziendale",
+    "gradWord": "era dell'AI"
+  },
+  "intro": {
+    "eyebrow": "Trasformare la complessità in semplicità",
+    "title": "Eliminiamo gli attriti dalla tua azienda",
+    "p1": "Le aziende oggi dipendono da decine di sistemi, piattaforme, fogli di calcolo e processi manuali scollegati. Sebbene ogni strumento risolva un problema specifico, insieme generano spesso inefficienze, lavoro duplicato, dati frammentati e attriti operativi.",
+    "p2": "In LuRavAntI aiutiamo le organizzazioni a semplificare e modernizzare le operazioni progettando sistemi intelligenti che collegano, unificano e automatizzano il modo in cui lavorano.",
+    "p3": "La nostra missione è semplice: eliminare gli attriti, abbattere i silos e creare flussi operativi senza interruzioni che permettano alle aziende di muoversi più velocemente e crescere con fiducia."
+  },
+  "disruption": {
+    "eyebrow": "Trasformazione senza interruzioni",
+    "title": "La trasformazione digitale non deve significare ricostruire tutto da zero",
+    "p1": "Molte aziende hanno investito anni nei propri sistemi e processi operativi. Noi rispettiamo questo investimento.",
+    "p2": "Il nostro approccio si concentra sul capire ciò che già funziona, preservare la continuità operativa e creare una strategia di trasformazione che riduce al minimo le interruzioni massimizzando il valore.",
+    "p3": "Ci integriamo con il tuo ecosistema esistente, permettendo ai team di continuare a operare mentre miglioriamo progressivamente l'architettura sottostante. Il risultato è una transizione più fluida, un'adozione più rapida e risultati misurabili senza interrompere le attività quotidiane.",
+    "card1_k": "Preserva",
+    "card1_t": "Continuità operativa",
+    "card1_d": "I team continuano a operare mentre l'architettura evolve sotto di loro.",
+    "card2_k": "Integra",
+    "card2_t": "Ecosistema esistente",
+    "card2_d": "Ci colleghiamo a ciò che già usi invece di sostituirlo.",
+    "card3_k": "Migliora",
+    "card3_t": "Progressivamente",
+    "card3_d": "L'architettura migliora passo dopo passo, con risultati misurabili."
+  },
+  "unify": {
+    "eyebrow": "Unifica i sistemi · Abbatti i silos",
+    "title": "La tua azienda dovrebbe operare come un'unica organizzazione connessa",
+    "p1": "Una delle sfide più grandi per le organizzazioni è l'informazione frammentata, distribuita su più piattaforme.",
+    "p2": "Aiutiamo le aziende a creare un ecosistema digitale unificato in cui le informazioni fluiscono naturalmente tra reparti, sistemi e team. Che sia tramite integrazioni, piattaforme su misura, livelli di automazione o hub operativi centralizzati, garantiamo che la tua azienda operi come un'organizzazione connessa e non come un insieme di strumenti isolati.",
+    "before": "Prima — frammentato",
+    "after": "Dopo — connesso",
+    "silo1": "Le vendite in un sistema",
+    "silo2": "Le operazioni in un altro",
+    "silo3": "Il servizio clienti in un terzo",
+    "silo4": "La direzione si affida ai fogli di calcolo",
+    "unified": "Un ecosistema digitale unificato"
+  },
+  "vendorlock": {
+    "eyebrow": "Soluzioni su misura, non vendor lock-in",
+    "title": "La tecnologia deve servire la tua azienda — non il contrario",
+    "lead": "A differenza di molte società di consulenza che costruiscono soluzioni attorno a costose piattaforme di terze parti, noi diamo priorità a proprietà, flessibilità e sostenibilità a lungo termine. Quando possibile, riduciamo la dipendenza da software di terzi e ti diamo maggiore controllo su operazioni, costi e crescita futura.",
+    "1k": "Collega",
+    "1d": "i sistemi esistenti quando già generano valore.",
+    "2k": "Sostituisci",
+    "2d": "gli strumenti superflui quando creano complessità.",
+    "3k": "Costruisci",
+    "3d": "soluzioni su misura dove offrono un vantaggio strategico.",
+    "4k": "Mantieni",
+    "4d": "il controllo dei tuoi dati e processi."
+  },
+  "aifoundation": {
+    "eyebrow": "Le fondamenta per l'AI",
+    "title": "L'AI non è uno strumento che si aggiunge semplicemente a un'azienda",
+    "p1": "L'intelligenza artificiale richiede dati strutturati, sistemi connessi, processi efficienti e flussi informativi affidabili.",
+    "p2": "La maggior parte delle organizzazioni non è limitata dalla tecnologia AI in sé, ma da dati frammentati, piattaforme scollegate e processi aziendali incoerenti.",
+    "p3": "Per questo ogni progetto di trasformazione inizia con una revisione fondamentale di strutture dati, flussi di lavoro e architettura operativa. Riprogettiamo e ottimizziamo queste fondamenta affinché la tua organizzazione sia pronta a sfruttare appieno automazione, machine learning, assistenti intelligenti, analisi predittiva e le capacità AI future.",
+    "quote": "Il nostro obiettivo non è solo preparare la tua azienda alla tecnologia di oggi. È costruire una base operativa che ti mantenga avanti rispetto a quella di domani.",
+    "s1": "Dati strutturati",
+    "s2": "Sistemi connessi",
+    "s3": "Processi efficienti",
+    "s4": "Flussi affidabili"
+  },
+  "services": {
+    "eyebrow": "I nostri servizi",
+    "title": "Dalla strategia alle operazioni intelligenti",
+    "lead": "Ogni progetto è costruito attorno ai tuoi obiettivi di business — collegando ciò che funziona, semplificando ciò che non funziona e preparando le fondamenta per l'AI.",
+    "s1t": "Consulenza per la trasformazione aziendale",
+    "s1b": "Analizziamo le tue operazioni attuali, individuiamo le inefficienze e definiamo strategie di trasformazione concrete allineate ai tuoi obiettivi di business.",
+    "s2t": "Integrazione di sistemi e unificazione dei processi",
+    "s2b": "Colleghiamo software, piattaforme, database e flussi operativi esistenti per eliminare i silos e creare un flusso di informazioni senza interruzioni.",
+    "s3t": "Sviluppo software su misura",
+    "s3b": "Progettiamo e sviluppiamo applicazioni, portali, piattaforme e sistemi operativi su misura per le tue specifiche esigenze aziendali.",
+    "s4t": "Preparazione all'AI e architettura dei dati",
+    "s4b": "Ristrutturiamo modelli di dati, processi operativi e flussi informativi per preparare le organizzazioni a operazioni e decisioni guidate dall'AI.",
+    "s5t": "Automazione e operazioni intelligenti",
+    "s5b": "Implementiamo automazione, flussi di lavoro intelligenti e assistenti basati su AI che riducono il lavoro manuale e aumentano la produttività in tutta l'organizzazione.",
+    "s6t": "Fondamenta dei dati",
+    "s6b": "Creiamo una fonte unica di verità — consolidando i tuoi dati in una base strutturata e affidabile che alimenta reportistica e AI."
+  },
+  "process": {
+    "eyebrow": "Come lavoriamo",
+    "title": "Un percorso chiaro dalla complessità al flusso",
+    "s1t": "Analisi",
+    "s1d": "Mappiamo sistemi, dati e flussi per capire cosa già funziona e dove si annida l'attrito.",
+    "s2t": "Progettazione",
+    "s2d": "Definiamo una strategia di trasformazione e un'architettura che riducono le interruzioni massimizzando il valore.",
+    "s3t": "Integrazione",
+    "s3d": "Colleghiamo, unifichiamo e miglioriamo progressivamente il tuo ecosistema mentre i team continuano a operare.",
+    "s4t": "Automazione",
+    "s4d": "Aggiungiamo automazione e AI su fondamenta solide, con risultati misurabili su cui costruire."
+  },
+  "cta": {
+    "eyebrow": "Costruisci un'azienda pronta per il futuro",
+    "title": "La trasformazione non significa aggiungere altri strumenti. Significa far funzionare tutto insieme.",
+    "lead": "Eliminando gli attriti, collegando le operazioni, ristrutturando le informazioni e preparando all'AI, aiutiamo le aziende a operare in modo più intelligente, rapido e con maggiore fiducia nel futuro.",
+    "btn1": "Prenota una sessione strategica",
+    "btn2": "Esplora i servizi"
+  },
+  "footer": {
+    "tagline": "Lo colleghiamo, lo semplifichiamo e lo prepariamo per il futuro.",
+    "company": "Azienda",
+    "services": "Servizi",
+    "contact": "Contatti",
+    "approach": "Approccio",
+    "why": "Perché LuRavAntI",
+    "process": "Processo",
+    "rights": "Tutti i diritti riservati."
+  }
+}
