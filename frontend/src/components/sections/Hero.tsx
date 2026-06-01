@@ -61,13 +61,6 @@ export function Hero() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div
-        aria-hidden="true"
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 opacity-40"
-      >
-        <span className="block w-0.5 h-8 bg-text-muted rounded-full" />
-      </div>
     </section>
   );
 }
