@@ -14,7 +14,7 @@ Business Transformation Consulting website — [luravanti.com](https://luravanti
 ```bash
 cp .env.example .env
 docker compose -f docker-compose.dev.yml up --build
-# Site: http://localhost:3000 → redirects to /en
+# Site: http://localhost:4000 → redirects to /en
 ```
 
 Or without Docker:

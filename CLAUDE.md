@@ -78,9 +78,9 @@ docker compose -f docker-compose.dev.yml up --build
 cd frontend && npm run dev
 
 # Verify all locales
-open http://localhost:3000/en
-open http://localhost:3000/it
-open http://localhost:3000/es
+open http://localhost:4000/en
+open http://localhost:4000/it
+open http://localhost:4000/es
 ```
 
 ## Adding a New Section
