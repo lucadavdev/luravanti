@@ -83,6 +83,13 @@ open http://localhost:4000/it
 open http://localhost:4000/es
 ```
 
+## Dev Port Map
+
+| Service  | Host port | Container port | Notes |
+|----------|-----------|----------------|-------|
+| Frontend | 4000      | 4000           | Next.js dev server |
+| DB       | 5532      | 5432           | Offset +100 to avoid VPS conflicts |
+
 ## Adding a New Section
 
 1. Add all string keys to `en.json`, `it.json`, `es.json` simultaneously.
