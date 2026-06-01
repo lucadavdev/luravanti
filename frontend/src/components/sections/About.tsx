@@ -33,12 +33,12 @@ export function About() {
               key={founder.email}
               className="group bg-navy-2 border border-white/8 rounded-2xl overflow-hidden hover:border-grad-mid/30 transition-all duration-200 hover:bg-navy-3"
             >
-              <div className="relative w-full aspect-square">
+              <div className="relative w-full aspect-[4/5]">
                 <Image
                   src={founder.photo}
                   alt={`${founder.name} — ${t('role')}`}
                   fill
-                  className="object-cover object-top"
+                  className="object-cover object-center"
                   sizes="(max-width: 768px) 100vw, 50vw"
                 />
               </div>
