@@ -4,6 +4,7 @@
     "services": "Services",
     "why": "Why LuRavAntI",
     "process": "Process",
+    "about": "About",
     "book": "Book a strategy session"
   },
   "hero": {
@@ -106,6 +107,11 @@
     "s3d": "We connect, unify, and progressively improve your ecosystem while teams keep operating.",
     "s4t": "Automate",
     "s4d": "We layer in automation and AI on a clean foundation, with measurable outcomes you can build on."
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "The people behind LuRavAntI",
+    "role": "Co-Founder"
   },
   "cta": {
     "eyebrow": "Build a business ready for the future",

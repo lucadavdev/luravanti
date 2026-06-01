@@ -4,6 +4,7 @@
     "services": "Servicios",
     "why": "Por qué LuRavAntI",
     "process": "Proceso",
+    "about": "Quiénes somos",
     "book": "Reserva una sesión estratégica"
   },
   "hero": {
@@ -106,6 +107,11 @@
     "s3d": "Conectamos, unificamos y mejoramos progresivamente tu ecosistema mientras los equipos siguen operando.",
     "s4t": "Automatizar",
     "s4d": "Añadimos automatización e IA sobre una base sólida, con resultados medibles sobre los que crecer."
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Las personas detrás de LuRavAntI",
+    "role": "Co-Fundador"
   },
   "cta": {
     "eyebrow": "Construye una empresa lista para el futuro",
