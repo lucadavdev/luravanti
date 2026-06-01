@@ -5,7 +5,7 @@ Business Transformation Consulting website — [luravanti.com](https://luravanti
 ## Stack
 
 - **Frontend**: Next.js 16, TypeScript, Tailwind CSS v4, next-intl
-- **Proxy**: Nginx 1.27 (HTTPS)
+- **Proxy**: Nginx 1.27 (HTTP on port 4000 — SSL terminated by upstream VPS proxy)
 - **Database**: PostgreSQL 16
 - **Languages**: EN · IT · ES
 
@@ -25,17 +25,11 @@ cd frontend && npm install && npm run dev
 
 ## Production
 
-1. Place SSL certs in `nginx/certs/fullchain.pem` and `nginx/certs/privkey.pem`
-2. Copy `.env.example` to `.env` and fill all values (especially `POSTGRES_PASSWORD`)
-3. `docker compose up --build -d`
+1. Copy `.env.example` to `.env` and fill all values (especially `POSTGRES_PASSWORD`)
+2. `docker compose up --build -d`
+3. Point your VPS reverse proxy (nginx/Caddy/Traefik) at `http://localhost:4000`
 
-### Getting SSL certs (Let's Encrypt)
-
-```bash
-certbot certonly --standalone -d luravanti.com -d www.luravanti.com
-cp /etc/letsencrypt/live/luravanti.com/fullchain.pem nginx/certs/
-cp /etc/letsencrypt/live/luravanti.com/privkey.pem nginx/certs/
-```
+> SSL is handled by the VPS upstream proxy. Nginx here is plain HTTP on port 4000.
 
 ## SEO
 

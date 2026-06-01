@@ -14,10 +14,7 @@ services:
   nginx:
     build: ./nginx
     ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - ./nginx/certs:/etc/nginx/certs:ro
+      - "4000:4000"
     depends_on:
       - frontend
     restart: unless-stopped
