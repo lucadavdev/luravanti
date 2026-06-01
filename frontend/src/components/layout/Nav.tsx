@@ -21,6 +21,7 @@ export function Nav() {
     { href: '#services', label: t('services') },
     { href: '#why', label: t('why') },
     { href: '#process', label: t('process') },
+    { href: '#about', label: t('about') },
   ];
 
   function switchLocale(code: 'en' | 'it' | 'es') {
