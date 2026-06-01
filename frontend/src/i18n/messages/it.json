@@ -108,6 +108,16 @@
     "s4t": "Automazione",
     "s4d": "Aggiungiamo automazione e AI su fondamenta solide, con risultati misurabili su cui costruire."
   },
+  "contact": {
+    "eyebrow": "Prenota una sessione strategica",
+    "title": "Parliamo della tua azienda",
+    "company": "Nome azienda",
+    "email": "Indirizzo email",
+    "description": "Breve descrizione della tua sfida",
+    "submit": "Prenota una sessione strategica",
+    "success": "Grazie — ti contatteremo a breve.",
+    "error": "Qualcosa è andato storto. Riprova."
+  },
   "about": {
     "eyebrow": "Chi siamo",
     "title": "Le persone dietro LuRavAntI",

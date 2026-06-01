@@ -108,6 +108,16 @@
     "s4t": "Automatizar",
     "s4d": "Añadimos automatización e IA sobre una base sólida, con resultados medibles sobre los que crecer."
   },
+  "contact": {
+    "eyebrow": "Reserva una sesión estratégica",
+    "title": "Hablemos de tu negocio",
+    "company": "Nombre de la empresa",
+    "email": "Correo electrónico",
+    "description": "Breve descripción de tu desafío",
+    "submit": "Reserva una sesión estratégica",
+    "success": "Gracias — nos pondremos en contacto contigo pronto.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
   "about": {
     "eyebrow": "Quiénes somos",
     "title": "Las personas detrás de LuRavAntI",

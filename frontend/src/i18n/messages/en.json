@@ -108,6 +108,16 @@
     "s4t": "Automate",
     "s4d": "We layer in automation and AI on a clean foundation, with measurable outcomes you can build on."
   },
+  "contact": {
+    "eyebrow": "Book a strategy session",
+    "title": "Let's talk about your business",
+    "company": "Company name",
+    "email": "Email address",
+    "description": "Brief description of your challenge",
+    "submit": "Book a strategy session",
+    "success": "Thank you — we will contact you shortly.",
+    "error": "Something went wrong. Please try again."
+  },
   "about": {
     "eyebrow": "About us",
     "title": "The people behind LuRavAntI",

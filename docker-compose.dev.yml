@@ -11,6 +11,10 @@ services:
       - /app/.next
     environment:
       - NODE_ENV=development
+      - POSTGRES_HOST=db
+      - POSTGRES_DB=luravanti
+      - POSTGRES_USER=luravanti
+      - POSTGRES_PASSWORD=devpassword
     restart: unless-stopped
 
   db:
