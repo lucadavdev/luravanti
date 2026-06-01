@@ -78,10 +78,10 @@ export function Footer() {
             <ul className="space-y-2 text-sm text-text-muted">
               <li>
                 <a
-                  href="mailto:hello@luravanti.com"
+                  href="mailto:info@luravanti.com"
                   className="hover:text-text-primary transition-colors"
                 >
-                  hello@luravanti.com
+                  info@luravanti.com
                 </a>
               </li>
             </ul>
