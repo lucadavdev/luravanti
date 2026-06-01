@@ -38,7 +38,7 @@ export function About() {
                   src={founder.photo}
                   alt={`${founder.name} — ${t('role')}`}
                   fill
-                  className="object-cover object-center"
+                  className="object-cover object-top"
                   sizes="(max-width: 768px) 100vw, 50vw"
                 />
               </div>
