@@ -88,7 +88,7 @@ open http://localhost:4000/es
 | Service  | Host port | Container port | Notes |
 |----------|-----------|----------------|-------|
 | Frontend | 4000      | 4000           | Next.js dev server |
-| DB       | 5532      | 5432           | Offset +100 to avoid VPS conflicts |
+| DB       | 5632      | 5432           | Offset +200 to avoid VPS conflicts (5432=beachclub, 5532=beachclub-staging) |
 
 ## Adding a New Section
 
