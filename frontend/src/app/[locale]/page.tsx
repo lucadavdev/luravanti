@@ -8,6 +8,7 @@ import { VendorLock } from '@/components/sections/VendorLock';
 import { AIFoundation } from '@/components/sections/AIFoundation';
 import { Services } from '@/components/sections/Services';
 import { Process } from '@/components/sections/Process';
+import { About } from '@/components/sections/About';
 import { CTA } from '@/components/sections/CTA';
 import { servicesSchema } from '@/lib/schema';
 
@@ -32,6 +33,7 @@ export default function HomePage() {
         </section>
         <Services />
         <Process />
+        <About />
         <CTA />
       </main>
       <Footer />
