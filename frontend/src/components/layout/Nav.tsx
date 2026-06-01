@@ -30,15 +30,15 @@ export function Nav() {
 
   return (
     <nav className="fixed top-0 inset-x-0 z-50 border-b border-white/5 bg-navy/80 backdrop-blur-md">
-      <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-16">
+      <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-20">
         {/* Logo */}
         <a href="#hero" className="flex items-center">
           <Image
             src="/logo.png"
             alt="LuRavAntI — Business Transformation Consulting"
-            width={200}
-            height={76}
-            className="h-9 w-auto"
+            width={320}
+            height={122}
+            className="h-14 w-auto"
             priority
           />
         </a>

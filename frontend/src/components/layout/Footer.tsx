@@ -10,13 +10,13 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           {/* Brand */}
           <div className="md:col-span-1">
-            <div className="mb-3">
+            <div className="mb-4">
               <Image
                 src="/logo.png"
                 alt="LuRavAntI — Business Transformation Consulting"
-                width={180}
-                height={68}
-                className="h-10 w-auto"
+                width={280}
+                height={106}
+                className="h-16 w-auto"
               />
             </div>
             <p className="text-text-muted text-sm leading-relaxed">{t('tagline')}</p>

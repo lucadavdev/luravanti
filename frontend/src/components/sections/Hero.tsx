@@ -9,7 +9,7 @@ export function Hero() {
   const titleParts = titleRaw.split(gradWord);
 
   return (
-    <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center pt-16 px-6 overflow-hidden">
+    <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center pt-20 px-6 overflow-hidden">
       {/* Background radial glow */}
       <div
         aria-hidden="true"
