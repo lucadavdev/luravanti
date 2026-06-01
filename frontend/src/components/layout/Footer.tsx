@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 
 export function Footer() {
   const t = useTranslations('footer');
@@ -9,9 +10,15 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           {/* Brand */}
           <div className="md:col-span-1">
-            <p className="font-display font-black text-2xl mb-3">
-              <span className="grad-text">LuRavAntI</span>
-            </p>
+            <div className="mb-3">
+              <Image
+                src="/logo.png"
+                alt="LuRavAntI — Business Transformation Consulting"
+                width={180}
+                height={68}
+                className="h-10 w-auto"
+              />
+            </div>
             <p className="text-text-muted text-sm leading-relaxed">{t('tagline')}</p>
           </div>
 

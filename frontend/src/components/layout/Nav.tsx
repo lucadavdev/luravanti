@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
 import { useRouter } from '@/i18n/navigation';
+import Image from 'next/image';
 
 const LOCALES = [
   { code: 'en', label: 'EN' },
@@ -31,8 +32,15 @@ export function Nav() {
     <nav className="fixed top-0 inset-x-0 z-50 border-b border-white/5 bg-navy/80 backdrop-blur-md">
       <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-16">
         {/* Logo */}
-        <a href="#hero" className="font-display font-black text-xl tracking-tight">
-          <span className="grad-text">LuRavAntI</span>
+        <a href="#hero" className="flex items-center">
+          <Image
+            src="/logo.png"
+            alt="LuRavAntI — Business Transformation Consulting"
+            width={200}
+            height={76}
+            className="h-9 w-auto"
+            priority
+          />
         </a>
 
         {/* Desktop nav links */}

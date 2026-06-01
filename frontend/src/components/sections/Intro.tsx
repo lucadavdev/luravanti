@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 
 export function Intro() {
   const t = useTranslations('intro');
@@ -21,15 +22,14 @@ export function Intro() {
           </div>
 
           {/* Decorative visual */}
-          <div aria-hidden="true" className="relative hidden lg:flex items-center justify-center h-64">
-            <div className="absolute inset-0 flex items-center justify-center">
-              <div className="w-48 h-48 rounded-full border border-white/5 flex items-center justify-center">
-                <div className="w-32 h-32 rounded-full border border-white/8 flex items-center justify-center">
-                  <div className="w-16 h-16 rounded-full bg-grad-mid/20 border border-grad-mid/30" />
-                </div>
-              </div>
-            </div>
-            <span className="relative z-10 font-display font-black text-4xl grad-text">LR</span>
+          <div className="relative hidden lg:flex items-center justify-center h-64">
+            <Image
+              src="/logo.png"
+              alt="LuRavAntI"
+              width={400}
+              height={152}
+              className="w-full max-w-sm opacity-80"
+            />
           </div>
         </div>
       </div>
